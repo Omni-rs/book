@@ -1,0 +1,6 @@
+[book]
+authors = ["Proximity Labs"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Omni Book"
