@@ -16,6 +16,7 @@ The Omni Stack is composed of three main components:
 
 - [**Omni JSON RPC Client**](./components/omni-jsonrpc-client.md): A multichain client for interacting with JSON-RPC APIs, enabling communication with multiple Blockchain networks.
 
+
 ### What's Next?
 
-Continue with our [Getting Started](./getting-started/installation.md) guide to set up Omni Tools and start building your first application.
+Head over to our [Installation](./getting-started/installation.md) guide to set up the Omni Stack. Once installed, you can get started by following [Hello Omni](./getting-started/hello-omni.md) for your first example.
